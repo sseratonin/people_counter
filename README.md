@@ -182,7 +182,3 @@ if num_seconds > 28800:
 
 - Object detection with SSD/MobileNets: https://pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
 - Schedule: https://pypi.org/project/schedule/
-
----
-
-*saimj7/ 19-08-2020 - © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.*
